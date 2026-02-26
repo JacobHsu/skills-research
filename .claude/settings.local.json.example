@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(git clone:*)"
+    ]
+  },
+  "env": {
+    "OPENAI_API_KEY": "sk-..."
+  }
+}
